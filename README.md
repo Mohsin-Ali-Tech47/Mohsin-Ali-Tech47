@@ -54,7 +54,7 @@
 
 ## 🌐 Connect With Me
 
-📧 **Email:** yourprofessionalemail@gmail.com  
+📧 **Email:** mohsinali.tech47@gmail.com  
 💼 **LinkedIn:** Coming Soon  
 🌍 **Portfolio:** Coming Soon  
 
