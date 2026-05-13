@@ -1,7 +1,9 @@
-<h1 align="center">🚀 Assalamualaikum, I'm Mohsin Ali 👋</h1>
+<h1 align="center">🚀 Hi, I'm Mohsin Ali 👋</h1>
 
 ---
-
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+![AI](https://img.shields.io/badge/AI-Future%20Engineer-gold)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Learning-black)
 # 🛠️ Tech Journey (Currently Learning)
 
 <p align="center">
@@ -18,10 +20,12 @@
 ---
 
 # 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohsin-Ali-Tech47&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohsin-Ali-Tech47&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-Ali-Tech47&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-Ali-Tech47&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
