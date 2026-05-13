@@ -1,73 +1,83 @@
-<h1 align="center">🚀 Hi, I'm Mohsin Ali 👋</h1>
+<h1 align="center">🚀 Assalamualaikum, I'm Mohsin Ali 👋</h1>
+
+---
+
+# 🛠️ Tech Journey (Currently Learning)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
----
-
-## 📚 Currently Learning
-
-🔥 Python Programming  
-🌐 Full Stack Development  
-⚡ Git & GitHub  
-🤖 Artificial Intelligence  
-🦾 Robotics & Automation
+📚 Currently learning:
+- 🐍 Python Programming
+- 🌐 Full Stack Development Fundamentals
+- ⚡ Git & GitHub
+- 🤖 Artificial Intelligence Basics
+- 🦾 Robotics & Automation
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohsin-Ali-Tech47&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-Ali-Tech47&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Mohsin-Ali-Tech47&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 ✅ Improving Python Skills  
-✅ Building Beginner Projects  
+✅ Building Real Projects  
 ✅ Learning Full Stack Development  
 ✅ Exploring AI & Robotics  
+✅ Becoming Better Every Day 💪
 
 ---
 
-## 🏆 Goals for 2026
+# 🏆 Future Goals
 
-🎯 Become highly skilled in Python  
-🎯 Build real-world projects  
-🎯 Start earning from tech  
-🎯 Create a personal AI assistant  
-🎯 Become an AI & Robotics Engineer 🤖
+🎯 Become a World-Class AI & Robotics Engineer  
+🎯 Master Full Stack Development  
+🎯 Build a Real-Life AI Assistant (JARVIS Inspired) 🤖  
+🎯 Build High-Impact Technology for Humanity 🌍  
+🎯 Contribute to Future Innovations 🚀
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 📧 **Email:** mohsinali.tech47@gmail.com  
-💼 **LinkedIn:** Coming Soon  
-🌍 **Portfolio:** Coming Soon  
+💼 **LinkedIn:** Coming Soon 🚧  
+🌍 **Portfolio Website:** Coming Soon 🚧  
+🐦 **X / Twitter:** Coming Soon 🚧
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Mohsin-Ali-Tech47/Mohsin-Ali-Tech47/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
+# 📖 Islamic Reminder
+
+> **“And say: My Lord, increase me in knowledge.”**  
+> **— Quran 20:114 🤍**
+
+---
+
 <p align="center">
-  ⭐ <b>Always Learning • Always Building • Never Quitting</b> ⭐
+✨ <b>Always Learning • Always Building • Never Quitting</b> ✨
 </p>
