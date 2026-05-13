@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">🚀 Hi, I'm Mohsin Ali 👋</h1>
 
-<!--
-**Mohsin-Ali-Tech47/Mohsin-Ali-Tech47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+🔥 Python Programming  
+🌐 Full Stack Development  
+⚡ Git & GitHub  
+🤖 Artificial Intelligence  
+🦾 Robotics & Automation
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+✅ Improving Python Skills  
+✅ Building Beginner Projects  
+✅ Learning Full Stack Development  
+✅ Exploring AI & Robotics  
+
+---
+
+## 🏆 Goals for 2026
+
+🎯 Become highly skilled in Python  
+🎯 Build real-world projects  
+🎯 Start earning from tech  
+🎯 Create a personal AI assistant  
+🎯 Become an AI & Robotics Engineer 🤖
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** yourprofessionalemail@gmail.com  
+💼 **LinkedIn:** Coming Soon  
+🌍 **Portfolio:** Coming Soon  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Always Learning • Always Building • Never Quitting</b> ⭐
+</p>
